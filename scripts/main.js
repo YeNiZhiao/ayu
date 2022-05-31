@@ -17,10 +17,14 @@
       once: true,
       mirror: false,
 <<<<<<< HEAD
+<<<<<<< HEAD
      
 =======
       // disable: 'mobile'
 >>>>>>> 623fffe (commit new)
+=======
+      // disable: 'mobile'
+>>>>>>> 623fffe9839444c491212444e43303dd80cfb6b7
     });
   }
 
